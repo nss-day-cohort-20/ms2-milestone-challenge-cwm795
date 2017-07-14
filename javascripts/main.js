@@ -26,4 +26,3 @@ var CarLot = (function (globalScopeCarLot) {
   // CarLot will be `undefined` and a new empty object
   // will augmented.
 })(CarLot || {});
-```
