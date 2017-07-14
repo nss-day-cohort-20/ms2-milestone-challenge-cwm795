@@ -8,4 +8,26 @@
       "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
     }
   ]
+},
+{
+  "cars": [
+    {
+      "make": "Ford",
+      "model": "F-150",
+      "year": "2014",
+      "price": "35995",
+      "description": "This is an immaculate 2014 Ford F-150 with only 21770 miles on it. Leather seats, power everything."
+    }
+  ]
+},
+{
+  "cars": [
+    {
+      "make": "Ford",
+      "model": "Focus",
+      "year": "2012",
+      "price": "15999",
+      "description": "This is an immaculate 2012 Ford Focus with only 20000 miles on it. Blutooth speakers, power everything."
+    }
+  ]
 }
